@@ -2,7 +2,7 @@
 
 ### Profile 
 Name : Candy
-### 사용하는 언어
+## 사용하는 언어
 [![Java](http://img.shields.io/badge/Java-007397?style=flat&logo=java)](#) <!-- 자바 -->
 [![Python](http://img.shields.io/badge/Python-black?style=flat&logo=python)](#) <!-- 파이썬 -->
 [![Javascript](http://img.shields.io/badge/Javascript-black?style=flat&logo=javascript)](#) <!-- 자바 스크립트 -->
