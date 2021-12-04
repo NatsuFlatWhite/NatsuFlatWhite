@@ -1,4 +1,4 @@
-## Welcome to my Github!😋
+## Welcome to y Github!😋
 
 ### Profile 
 Name : Candy
