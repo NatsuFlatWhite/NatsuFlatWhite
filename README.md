@@ -8,7 +8,7 @@
 <!-- C# Html 등등.. 추가예정이긴한데.. 귀찮아서 안하려나.. -->
 
 ## SQL Server
-[![Microsoft SQL Server](http://img.shields.io/badge/Microsoft SQL Server-black?style=flat&logo=Microsoft SQL Server)](#) <!-- MSSql -->
+[![Microsoft SQL Server](http://img.shields.io/badge/MSSQL-black?style=flat&logo=Microsoft SQL Server)](#) <!-- MSSql -->
 [![MySQL](http://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL)](#) <!-- MySQL -->
 
 ## Discord
