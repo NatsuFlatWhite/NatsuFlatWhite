@@ -9,8 +9,8 @@
 <!-- C# Html 등등.. 추가예정이긴한데.. 귀찮아서 안하려나.. -->
 
 ## SQL Server
-<!-- [![MSSQL](http://img.shields.io/badge/MSSQL-black?style=flat&logo=Microsoft SQL Server)](#) -->
+![MSSQL](http://img.shields.io/badge/MSSQL-black?style=flat&logo=MicrosoftSQLServer)
 [![MySQL](http://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL)](#) <!-- MySQL -->
 [![MariaDB](http://img.shields.io/badge/MariaDB-black?style=flat&logo=MariaDB)](#) <!-- Maria -->
-## Discord
-[![Discord](http://img.shields.io/badge/사탕%230001-white?style=flat&logo=discord)](#) <!-- DC -->
+<!-- ## Discord
+[![Discord](http://img.shields.io/badge/Private%230001-white?style=flat&logo=discord)](#) <!-- DC -->
