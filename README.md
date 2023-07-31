@@ -1,5 +1,10 @@
 ### Welcome to My Github!😋
 
+## My brief info
+ - I'm living in Seoul<br/>
+ - C# is my favorite programming language<br/>
+ - Full stack developer<br/>
+ - My birthday is December 7 2007
 ## Programming Language
 [![Python](http://img.shields.io/badge/Python-black?style=flat&logo=python)](#) 
 [![Javascript](http://img.shields.io/badge/Javascript-black?style=flat&logo=javascript)](#) 
